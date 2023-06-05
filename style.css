@@ -1,0 +1,61 @@
+/* h1{
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+    color: cornflowerblue;
+} */
+.bg-container
+{
+    background-color:rgb(68, 137, 154) ;
+}
+.head{
+    text-align: center;
+    font-family:"Roboto";
+    text-decoration: underline;
+    color: white;
+}
+.main{
+    background-image: url("https://media.istockphoto.com/id/1130406650/vector/a-horizontal-vector-illustration-of-horizontal-tri-color-merging-bands-saffron-white-and.jpg?s=612x612&w=0&k=20&c=iQQk_8xRDz_WZZLLobQWojHhCl_y7H1_XGIarVAakng=");
+    background-size: 900px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+    background-color: rgb(87, 57, 91);
+    border:5px solid ;
+    padding: 100px;
+}
+.txt{
+    width: 100%;
+    text-align: center;
+}
+.img-txt
+{
+    text-decoration: underline;
+    font-family: fantasy;
+}
+.picture{
+
+    display:flex;
+    height:400px;
+    width: 1300px;
+    align-items:center;
+}
+.kohli{
+    height: 200px;
+    padding: 50px;
+    border-radius: 50%;
+    
+}
+.dhoni
+{
+    padding: 50px;
+    border-radius: 50%;
+    height: 200px
+    
+}
+.sachin
+{
+    border-radius: 50%;
+    padding: 50px;
+    height:200px
+}

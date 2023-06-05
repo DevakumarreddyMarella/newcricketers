@@ -1,0 +1,58 @@
+.bg-container
+{
+    background-image: url("https://img.freepik.com/premium-photo/beautiful-abstract-bluesky-water-color-background_364465-1355.jpg?w=2000");
+    height: cover;
+    background-size: cover;
+    
+}
+.main-heading
+{
+    font-family: fantasy;
+    text-align: center;
+    background-color:orange;
+    /*position:fixed;*/
+}
+.image
+{
+    height: 300px;
+    width: 300px;
+}
+.border
+{
+    border-style: solid;
+}
+.para
+
+{
+    text-align: right;
+}
+.para2
+{
+    text-decoration: underline;
+    background-color: greenyellow;
+}
+.m-button
+{
+    text-align: center;
+    padding-top: 10px;
+    
+}
+.home
+{
+border-radius: 10px;
+background-color: orange ;
+height: 30px;
+width: 60px;
+padding
+}
+.final
+{
+    
+        font-weight: 400;
+        text-align: center;
+        text-decoration: underline;
+        color:white;
+        background-color:#CA6EC7;
+        font-family:
+    
+}
